@@ -1,0 +1,3 @@
+[submodule "plugins/zaw"]
+	path = plugins/zaw
+	url = git@github.com:oxalis-gps/zaw.git
